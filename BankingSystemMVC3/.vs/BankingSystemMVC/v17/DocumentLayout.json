@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zarrar Work\\BankingSystemMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\customer\\createtransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\customer\\createtransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\zarrar work\\bankingsystemmvc\\bankingsystemmvc\\views\\employee\\listcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\employee\\listcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BankingSystemMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAOEzAAAAAAAAAAAuwAY0AAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-06T11:49:11.651Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T12:13:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Shared\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Shared\\Navbar.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Shared\\Navbar.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Shared\\Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T11:59:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTransaction.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\CreateTransaction.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Customer\\CreateTransaction.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\CreateTransaction.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Customer\\CreateTransaction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:16:23.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T17:40:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T15:10:39.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListCustomers.cshtml",
+              "DocumentMoniker": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "ToolTip": "D:\\Zarrar Work\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T15:09:38.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

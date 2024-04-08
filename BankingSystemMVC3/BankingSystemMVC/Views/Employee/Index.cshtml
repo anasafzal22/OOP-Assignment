@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Employee Dashboard";
+}
+
+<h2>Welcome, Bank Employee!</h2>
+
+
+<div class="card border-success mb-3" style="max-width: 20rem;" bis_skin_checked="1">
+    <div class="card-header" bis_skin_checked="1">Employee Actions</div>
+    <div class="card-body " bis_skin_checked="1">
+        <ul >
+            <li class="list-group-item m-3"><a asp-action="CreateCustomer" class="btn btn-primary">Create Customer</a></li>
+            <li class="list-group-item m-3"><a asp-action="ListCustomers" class="btn btn-info">List Customers</a></li>
+            <li class="list-group-item m-3"><a asp-action="CreateTransaction" class="btn btn-success">Create Transaction</a></li>
+            <li class="list-group-item m-3"><a asp-action="DeleteCustomer" class="btn btn-danger">Delete Customer</a></li>
+        </ul>
+    </div>
+</div>

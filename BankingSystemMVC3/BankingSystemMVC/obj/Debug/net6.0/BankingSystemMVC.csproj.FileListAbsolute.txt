@@ -1,0 +1,702 @@
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.staticwebassets.runtime.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.exe
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.deps.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.runtimeconfig.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.pdb
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.AssemblyReference.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfoInputs.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfo.cs
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cs
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemMVC.props
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemMVC.props
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemMVC.props
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\bundle\BankingSystemMVC.styles.css
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\projectbundle\BankingSystemMVC.bundle.scp.css
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CopyComplete
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\refint\BankingSystemMVC.dll
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.pdb
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.genruntimeconfig.cache
+C:\Users\MULTI\Desktop\C# Banking App\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\ref\BankingSystemMVC.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.json
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.staticwebassets.runtime.json
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.exe
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.deps.json
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.runtimeconfig.json
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.pdb
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Humanizer.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.AssemblyReference.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfoInputs.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfo.cs
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CoreCompileInputs.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cs
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemMVC.props
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemMVC.props
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemMVC.props
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\bundle\BankingSystemMVC.styles.css
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\projectbundle\BankingSystemMVC.bundle.scp.css
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingS.6189830B.Up2Date
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.dll
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\refint\BankingSystemMVC.dll
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.pdb
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.genruntimeconfig.cache
+D:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\ref\BankingSystemMVC.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.json
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.staticwebassets.runtime.json
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.exe
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.deps.json
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.runtimeconfig.json
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.pdb
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Humanizer.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.AssemblyReference.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfoInputs.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfo.cs
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CoreCompileInputs.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cs
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemMVC.props
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemMVC.props
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemMVC.props
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\bundle\BankingSystemMVC.styles.css
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\projectbundle\BankingSystemMVC.bundle.scp.css
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingS.6189830B.Up2Date
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.dll
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\refint\BankingSystemMVC.dll
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.pdb
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.genruntimeconfig.cache
+E:\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\ref\BankingSystemMVC.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\appsettings.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.staticwebassets.runtime.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.exe
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.deps.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.runtimeconfig.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.pdb
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Humanizer.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.AssemblyReference.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfoInputs.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfo.cs
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CoreCompileInputs.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cs
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemMVC.props
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemMVC.props
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemMVC.props
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\bundle\BankingSystemMVC.styles.css
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\scopedcss\projectbundle\BankingSystemMVC.bundle.scp.css
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingS.6189830B.Up2Date
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\refint\BankingSystemMVC.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.pdb
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.genruntimeconfig.cache
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\obj\Debug\net6.0\ref\BankingSystemMVC.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\MessagePack.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Zarrar Work\BankingSystemMVC\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.staticwebassets.runtime.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.exe
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.deps.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.runtimeconfig.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\BankingSystemMVC.pdb
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.AssemblyReference.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfoInputs.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.AssemblyInfo.cs
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.RazorAssemblyInfo.cs
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemMVC.props
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemMVC.props
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemMVC.props
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\scopedcss\bundle\BankingSystemMVC.styles.css
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\scopedcss\projectbundle\BankingSystemMVC.bundle.scp.css
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.csproj.CopyComplete
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\refint\BankingSystemMVC.dll
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.pdb
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\BankingSystemMVC.genruntimeconfig.cache
+C:\Users\Anas\Desktop\BankingSystemMVC3\BankingSystemMVC\obj\Debug\net6.0\ref\BankingSystemMVC.dll

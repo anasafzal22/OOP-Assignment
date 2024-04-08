@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Customer Dashboard";
+}
+
+<h2>Welcome, Customer!</h2>
+
+
+<div class="card border-primary mb-7" style="max-width: 20rem;" bis_skin_checked="1">
+    <div class="card-header" bis_skin_checked="1">Customer Actions</div>
+    <div class="card-body" bis_skin_checked="1">
+       
+        
+            <a asp-action="History" class="btn btn-info">View Transaction History</a>
+            
+      
+    </div>
+</div>
+<div class="card border-success mb-3" style="max-width: 20rem;" bis_skin_checked="1">
+    <div class="card-header" bis_skin_checked="1">Customer Actions</div>
+    <div class="card-body" bis_skin_checked="1">
+
+        <a asp-action="CreateTransaction" class="btn btn-success">Create Transaction</a>
+    </div>
+
